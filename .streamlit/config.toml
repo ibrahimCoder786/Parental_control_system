@@ -1,0 +1,6 @@
+    [theme]
+primaryColor="#1E90FF" # Button/Widget ka main color (Abhi Dodger Blue hai, aap change kar sakte hain)
+backgroundColor="#F0F2F6" # App ka background color (Abhi halka grey hai)
+secondaryBackgroundColor="#FFFFFF" # Widgets ka background color (Abhi white hai)
+textColor="#31333F" # Text ka color
+font="sans serif" # Font style
